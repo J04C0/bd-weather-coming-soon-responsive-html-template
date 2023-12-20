@@ -52,7 +52,7 @@ header nav {
 }
 
 header .logo {
-  width: 165px;
+  width: 85px;
 }
 
 header .logo svg {
@@ -81,6 +81,7 @@ header .social-icon a {
   text-decoration: none;
   -webkit-transition: 0.3s all linear;
   transition: 0.3s all linear;
+  margin-right: 90px;
 }
 
 header .social-icon a:hover {
